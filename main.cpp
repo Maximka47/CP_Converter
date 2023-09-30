@@ -1,6 +1,5 @@
 #include <iostream>
-#include <cstdlib>
-#include <stdlib.h>
+// #include <cstdlib>
 #include <windows.h>
 #include <time.h>
 #include <cmath>
